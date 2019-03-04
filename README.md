@@ -3,18 +3,21 @@ Discord Bot that simulates the popular event game in Maplestory
 
 This is a personal discord bot that simulates the name the item minigame. 
 
-To install, simply have node.js installed and paste your own discord server's token in index.
+### Installation:
+
+
+simply have node.js installed and paste your own discord server's token in index.
 
 node --harmony . - to start bot
 
-Commands:
+### Commands:
 
 
 ;nti - to start the game
 
 skip - Skips the question and gives the answer
 
-To Do List:
+### To Do List:
 
 
 No huge array in nti.js
