@@ -24,6 +24,6 @@ No huge array in nti.js
 
 Point System
 
-Make sure command only runs once at a time
+~~Make sure command only runs once at a time
 
 
